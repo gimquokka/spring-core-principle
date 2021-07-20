@@ -1,4 +1,4 @@
-package inflearn.sprintcoreprinciplebasic.member;
+package inflearn.spring_core_principle_basic.member;
 
 import java.util.HashMap;
 import java.util.Map;

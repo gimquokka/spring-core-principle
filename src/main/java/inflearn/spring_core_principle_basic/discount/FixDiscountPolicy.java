@@ -1,7 +1,7 @@
-package inflearn.sprintcoreprinciplebasic.discount;
+package inflearn.spring_core_principle_basic.discount;
 
-import inflearn.sprintcoreprinciplebasic.member.Grade;
-import inflearn.sprintcoreprinciplebasic.member.Member;
+import inflearn.spring_core_principle_basic.member.Grade;
+import inflearn.spring_core_principle_basic.member.Member;
 
 public class FixDiscountPolicy implements DiscountPolicy {
 

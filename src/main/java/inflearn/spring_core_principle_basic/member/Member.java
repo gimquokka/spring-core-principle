@@ -1,4 +1,4 @@
-package inflearn.sprintcoreprinciplebasic.member;
+package inflearn.spring_core_principle_basic.member;
 
 public class Member {
     private Long id;

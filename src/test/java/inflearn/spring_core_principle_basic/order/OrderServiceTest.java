@@ -1,9 +1,9 @@
-package inflearn.sprintcoreprinciplebasic.order;
+package inflearn.spring_core_principle_basic.order;
 
-import inflearn.sprintcoreprinciplebasic.member.Grade;
-import inflearn.sprintcoreprinciplebasic.member.Member;
-import inflearn.sprintcoreprinciplebasic.member.MemberService;
-import inflearn.sprintcoreprinciplebasic.member.MemberServiceImpl;
+import inflearn.spring_core_principle_basic.member.Grade;
+import inflearn.spring_core_principle_basic.member.Member;
+import inflearn.spring_core_principle_basic.member.MemberService;
+import inflearn.spring_core_principle_basic.member.MemberServiceImpl;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
 

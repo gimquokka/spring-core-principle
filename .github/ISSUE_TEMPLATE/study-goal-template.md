@@ -8,7 +8,7 @@ assignees: 'gimquokka'
 
 # Goal
 
-Finish til ~"GOAL" 까지
+Finish til ~"GOAL" 
 
 1. Lecture
 2. Programming

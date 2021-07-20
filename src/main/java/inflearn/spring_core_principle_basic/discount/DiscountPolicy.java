@@ -1,6 +1,6 @@
-package inflearn.sprintcoreprinciplebasic.discount;
+package inflearn.spring_core_principle_basic.discount;
 
-import inflearn.sprintcoreprinciplebasic.member.Member;
+import inflearn.spring_core_principle_basic.member.Member;
 
 public interface DiscountPolicy {
 

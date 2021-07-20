@@ -1,4 +1,4 @@
-package inflearn.sprintcoreprinciplebasic.member;
+package inflearn.spring_core_principle_basic.member;
 
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;

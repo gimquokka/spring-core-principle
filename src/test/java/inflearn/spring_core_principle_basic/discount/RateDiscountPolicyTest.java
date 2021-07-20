@@ -1,7 +1,7 @@
-package inflearn.sprintcoreprinciplebasic.discount;
+package inflearn.spring_core_principle_basic.discount;
 
-import inflearn.sprintcoreprinciplebasic.member.Grade;
-import inflearn.sprintcoreprinciplebasic.member.Member;
+import inflearn.spring_core_principle_basic.member.Grade;
+import inflearn.spring_core_principle_basic.member.Member;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
@@ -23,7 +23,7 @@ class RateDiscountPolicyTest {
         // Then
         assertThat(discount).isEqualTo(1000);
     }
-
+//    성공테스트도 중요하지만 실패테스트도 꼭 만들어봐야한다.
     @Test
     @DisplayName("일반인은 10% 할인이 적용되면 안된다")
     void vip_x() {

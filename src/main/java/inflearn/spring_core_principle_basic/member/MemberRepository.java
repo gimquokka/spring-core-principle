@@ -1,4 +1,4 @@
-package inflearn.sprintcoreprinciplebasic.member;
+package inflearn.spring_core_principle_basic.member;
 
 public interface MemberRepository {
     void save(Member member);

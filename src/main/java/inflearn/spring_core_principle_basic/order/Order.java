@@ -1,4 +1,4 @@
-package inflearn.sprintcoreprinciplebasic.order;
+package inflearn.spring_core_principle_basic.order;
 
 public class Order {
 
