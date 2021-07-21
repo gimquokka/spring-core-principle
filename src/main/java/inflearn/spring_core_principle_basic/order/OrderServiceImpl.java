@@ -2,14 +2,14 @@ package inflearn.spring_core_principle_basic.order;
 
 import inflearn.spring_core_principle_basic.discount.DiscountPolicy;
 import inflearn.spring_core_principle_basic.member.Member;
-import inflearn.spring_core_principle_basic.member.MemoryMemberRepository;
+import inflearn.spring_core_principle_basic.member.MemberRepository;
 
 public class OrderServiceImpl implements OrderService {
 
-    private MemoryMemberRepository memberRepository;
+    private MemberRepository memberRepository;
     private DiscountPolicy discountPolicy;
 
-    public OrderServiceImpl(MemoryMemberRepository memberRepository, DiscountPolicy discountPolicy) {
+    public OrderServiceImpl(MemberRepository memberRepository, DiscountPolicy discountPolicy) {
         this.memberRepository = memberRepository;
         this.discountPolicy = discountPolicy;
     }
